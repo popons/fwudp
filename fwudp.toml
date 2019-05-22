@@ -1,0 +1,15 @@
+[rx1]
+ipaddr = "127.0.0.1"
+port = 1234
+
+[tx1]
+ipaddr = "127.0.0.1"
+port = 4321
+
+[rx2]
+ipaddr = "127.0.0.1"
+port = 2345
+
+[tx2]
+ipaddr = "127.0.0.1"
+port = 5432
